@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+openai
+pypdf
+python-docx
+reportlab
+matplotlib
